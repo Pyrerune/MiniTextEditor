@@ -7,7 +7,11 @@ install-sh
 /.idea
 /.unused
 Makefile.in
+/build
+/.deps
+/src/Makefile.in
 missing
 /src/config.*
 /src/Makefile
 /src/.deps
+/config.h.in
